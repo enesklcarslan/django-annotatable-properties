@@ -1,0 +1,1 @@
+from annotatable_properties.managers import AnnotatableQuerySet, AnnotatableManager
